@@ -1,0 +1,24 @@
+.list{
+    background-color: rgb(128, 16, 55) ;
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+.list .btn button{
+width: 60px;
+height: 30px;
+margin: 0 10px;
+border: none;
+font-size: 20px;
+}
+.list .buton{
+    width: 100%;
+    height: 30px;
+    margin-top: 20px;
+    border-radius: 30px;
+    border: none;
+    background-color: white;
+}
